@@ -9,6 +9,7 @@ main.py:    this code call nn.py
 
 nn.py:      all the import functions in in here
 
+data_12_gesture_v1: this is the input image data. Every training image become on raw in the matrix X. 
 
 
 
